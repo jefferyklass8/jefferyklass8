@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=jefferyklass8&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Full-stack Web Developer
+## Full-stack & AI Web Developer
 
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
