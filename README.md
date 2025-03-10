@@ -1,6 +1,6 @@
 # <samp>Welcome to my GitHub Profile! ✨</samp>
 
-<samp>Hello! I'm Luiso, I build software that simplifies complex challenges, with the end-user in mind at every step. My approach is focused on clarity, simplicity, and long-term maintainability.</samp>
+<samp>Hello! I'm Jeffery, I build software that simplifies complex challenges, with the end-user in mind at every step. My approach is focused on clarity, simplicity, and long-term maintainability.</samp>
 
 <samp>I specialize in developing intuitive, user-centered platforms that not only solve immediate problems but also evolve with the user’s needs. Every project I take on is an opportunity to learn, grow, and create technology that connects people and makes a meaningful impact. Let's build something amazing!</samp>
 
